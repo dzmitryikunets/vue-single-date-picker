@@ -24,7 +24,7 @@
     "lint": "vue-cli-service lint",
     "production": "yarn build --target lib --name vue-single-date-picker ./src/CalendarView.vue",
     "demo": "yarn build ./src/demo.js",
-    "prepare": "yarn build"
+    "prepare": "yarn production"
   },
   "engines": {
     "node": "16"
