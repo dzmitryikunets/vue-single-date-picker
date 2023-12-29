@@ -27,7 +27,7 @@
     "prepare": "yarn production"
   },
   "engines": {
-    "node": ">=16"
+    "node": "16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
